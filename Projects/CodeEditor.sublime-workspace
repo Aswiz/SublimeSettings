@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"im",
+				"img/"
+			],
+			[
+				"We",
+				"webDesignProject_url"
+			],
+			[
 				"lo",
 				"load__button_3"
 			]
@@ -12,27 +20,45 @@
 	"buffers":
 	[
 		{
-			"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/index.html",
+			"file": "/home/aswis/Documents/Web/CodeEditor/app/index.html",
 			"settings":
 			{
-				"buffer_size": 1165,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/sass/main.sass",
-			"settings":
-			{
-				"buffer_size": 847,
+				"buffer_size": 1171,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/js/common.js",
+			"file": "/home/aswis/Documents/Web/CodeEditor/app/js/common.js",
 			"settings":
 			{
-				"buffer_size": 918,
+				"buffer_size": 986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aswis/Documents/Web/Default-Gulp-Project/app/index.html",
+			"settings":
+			{
+				"buffer_size": 748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aswis/Documents/Web/WebDesignProject/package.json",
+			"settings":
+			{
+				"buffer_size": 617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aswis/Documents/Web/WebDesignProject/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1741,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -102,15 +128,19 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project",
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app",
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/css",
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/img",
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/js",
-		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/sass"
+		"/home/aswis/Documents/Web/CodeEditor",
+		"/home/aswis/Documents/Web/CodeEditor/app",
+		"/home/aswis/Documents/Web/CodeEditor/app/Pages",
+		"/home/aswis/Documents/Web/CodeEditor/app/js"
 	],
 	"file_history":
 	[
+		"/home/aswis/Documents/Web/CodeEditor/package.json",
+		"/home/aswis/Documents/Web/CodeEditor/gulpfile.js",
+		"/home/aswis/Documents/Web/CodeEditor/app/Pages/WebDesignProject/common.blocks/main-slider/_main-slider.sass",
+		"/home/aswis/Documents/SublimeProjekt/CodeEditor.sublime-project",
+		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/index.html",
+		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/sass/main.sass",
 		"/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/js/common.js",
 		"/home/aswis/.config/sublime-text-3/Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 		"/home/aswis/Documents/SublimeProjekt/MyMonokaiTheme/Monokai.tmTheme",
@@ -154,11 +184,57 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/index.html",
+					"file": "/home/aswis/Documents/Web/CodeEditor/app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1165,
+						"buffer_size": 1171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/home/aswis/Documents/Web/CodeEditor/app/js/common.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
 						"regions":
 						{
 						},
@@ -171,71 +247,17 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/sass/main.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 847,
-						"regions":
-						{
-						},
-						"selection":
-						[
+							"auto_complete_triggers":
 							[
-								361,
-								361
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 792.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/aswis/Documents/Web/CodeEditor/Default-Gulp-Project/app/js/common.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 918,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								247,
-								247
-							]
-						],
-						"settings":
-						{
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -243,7 +265,91 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/aswis/Documents/Web/Default-Gulp-Project/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/aswis/Documents/Web/WebDesignProject/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/aswis/Documents/Web/WebDesignProject/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -277,7 +383,7 @@
 		"cols":
 		[
 			0.0,
-			0.516929363689,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -287,6 +393,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
 	"output.SublimeLinter":
 	{
 		"height": 156.0
@@ -327,7 +437,7 @@
 		[
 			[
 				"",
-				"~/Documents/SublimeProjekt/C++.sublime-project"
+				"~/Documents/SublimeProjekt/WebDesignProject.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -341,7 +451,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -349,7 +459,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 207.0,
+	"side_bar_width": 269.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

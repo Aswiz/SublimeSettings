@@ -11,34 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/aswis/Documents/C++/Algor/InsertionSort.cpp",
-			"settings":
-			{
-				"buffer_size": 702,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/aswis/Documents/C++/Algor/clock.cpp",
-			"settings":
-			{
-				"buffer_size": 1113,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "//пример использования функции clock"
-			}
-		},
-		{
-			"file": "/home/aswis/Documents/ProjectEuler/ami.h",
-			"settings":
-			{
-				"buffer_size": 9346,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/C++/C++ Single File.sublime-build",
 	"build_system_choices":
@@ -129,15 +101,17 @@
 	"expanded_folders":
 	[
 		"/home/aswis/Documents/C++",
-		"/home/aswis/Documents/C++/Algor",
 		"/home/aswis/Documents/ProjectEuler"
 	],
 	"file_history":
 	[
+		"/home/aswis/Documents/ProjectEuler/ami.h",
+		"/home/aswis/Documents/SublimeProjekt/SublimePlaginsList.txt",
+		"/home/aswis/Documents/C++/Algor/clock.cpp",
+		"/home/aswis/Documents/C++/Algor/InsertionSort.cpp",
 		"/home/aswis/Documents/C++/NewYearTreeC.cpp",
 		"/home/aswis/compile.sh",
 		"/home/aswis/Documents/C++/Algor/text.txt",
-		"/home/aswis/Documents/SublimeProjekt/SublimePlaginsList.txt",
 		"/home/aswis/.config/sublime-text-3/Packages/User/Color Highlighter/themes/Monokai Extended Origin.tmTheme",
 		"/compile.sh",
 		"/home/aswis/Documents/SublimeProjekt/C++.sublime-project",
@@ -177,106 +151,13 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/aswis/Documents/C++/Algor/InsertionSort.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 702,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								174,
-								174
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/aswis/Documents/C++/Algor/clock.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1092,
-								1092
-							]
-						],
-						"settings":
-						{
-							"auto_name": "//пример использования функции clock",
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 288.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 2,
-					"file": "/home/aswis/Documents/ProjectEuler/ami.h",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9346,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9346,
-								9346
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 10036.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -354,7 +235,7 @@
 		[
 			[
 				"",
-				"~/Documents/SublimeProjekt/CodeEditor.sublime-project"
+				"~/Documents/SublimeProjekt/C++.sublime-project"
 			]
 		],
 		"width": 380.0
