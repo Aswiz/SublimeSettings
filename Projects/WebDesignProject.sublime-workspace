@@ -51,7 +51,7 @@
 			"file": "/home/aswis/Documents/Web/WebDesignProject/app/index.html",
 			"settings":
 			{
-				"buffer_size": 2851,
+				"buffer_size": 2902,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -309,15 +309,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2851,
+						"buffer_size": 2902,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1648,
-								1648
+								0,
+								0
 							]
 						],
 						"settings":
@@ -382,6 +382,7 @@
 									"selector": "text.html"
 								}
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -430,6 +431,7 @@
 									"selector": "text.html"
 								}
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
@@ -470,6 +472,7 @@
 									"selector": "text.html"
 								}
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
@@ -510,6 +513,7 @@
 									"selector": "text.html"
 								}
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
@@ -550,6 +554,7 @@
 									"selector": "text.html"
 								}
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 							"open_with_edit": true,
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax"
 						},
@@ -579,7 +584,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 144.0,
@@ -593,7 +599,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -653,7 +659,7 @@
 	"project": "WebDesignProject.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -667,16 +673,16 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 501.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"~/Documents/SublimeProjekt/CodeEditor.sublime-project"
+				"~/Documents/SublimeProjekt/SublimeSettings/Projects/CodeEditor.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 381.0
 	},
 	"select_symbol":
 	{

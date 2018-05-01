@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"cpp"
+			],
+			[
 				"en",
 				"endl"
 			]
@@ -11,6 +15,37 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "#include <iostream>\n#include <ctime>\n#include <iomanip>      // std::setw\n#include <string.h> \t\t// keyboard\n#include \"../ProjectEuler/ami.h\"\n\nusing namespace std;\n\nint main(int argc, char const *argv[]) {\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n    return 0;\n}\n//\n//g++ /home/aswiz/Documents/C++/Algor/One.cpp -o Vlad\n",
+			"file": "/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame/consoleGame_v0.cpp",
+			"file_size": 292,
+			"file_write_time": 131696819758799480,
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nBracketHighlighter\n------------------\n\n  # BracketHighlighter\n  \n  Welcome to BracketHighlighter!  For a quick start guide, please go to  \n  `Preferences->Package Settings->BracketHighlighter->Quick Start Guide`.\n",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame/clock.cpp",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/C++/C++ Single File.sublime-build",
 	"build_system_choices":
@@ -35,17 +70,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "pac",
+		"height": 355.0,
+		"last_filter": "inst",
 		"selected_items":
 		[
 			[
-				"pac",
-				"Package Control: List Packages"
-			],
-			[
 				"inst",
 				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
 			],
 			[
 				"in",
@@ -80,7 +115,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 549.0
+		"width": 531.0
 	},
 	"console":
 	{
@@ -100,17 +135,17 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aswis/Documents/C++",
-		"/home/aswis/Documents/ProjectEuler"
+		"/home/aswis/Documents/C_Plus_Plus/src",
+		"/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame"
 	],
 	"file_history":
 	[
+		"/home/aswis/compile.sh",
 		"/home/aswis/Documents/ProjectEuler/ami.h",
 		"/home/aswis/Documents/SublimeProjekt/SublimePlaginsList.txt",
 		"/home/aswis/Documents/C++/Algor/clock.cpp",
 		"/home/aswis/Documents/C++/Algor/InsertionSort.cpp",
 		"/home/aswis/Documents/C++/NewYearTreeC.cpp",
-		"/home/aswis/compile.sh",
 		"/home/aswis/Documents/C++/Algor/text.txt",
 		"/home/aswis/.config/sublime-text-3/Packages/User/Color Highlighter/themes/Monokai Extended Origin.tmTheme",
 		"/compile.sh",
@@ -151,19 +186,109 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
-			]
-		},
-		{
-			"sheets":
-			[
+				{
+					"buffer": 0,
+					"file": "/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame/consoleGame_v0.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"default_dir": "/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame/clock.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -178,18 +303,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -215,7 +333,7 @@
 	"project": "C++.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -229,16 +347,16 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 501.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"~/Documents/SublimeProjekt/C++.sublime-project"
+				"~/Documents/SublimeProjekt/SublimeSettings/Projects/WebDesignProject.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 381.0
 	},
 	"select_symbol":
 	{
