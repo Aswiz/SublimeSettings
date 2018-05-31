@@ -2,6 +2,12 @@
 	"folders":
 	[
 		{
+			"name": "Compile",
+			"path": "/home/aswis/",
+			"folder_exclude_patterns": ["*"],
+			"file_include_patterns": ["*.sh"],
+		},
+		{
 			"path": "/home/aswis/Documents/C_Plus_Plus/src"
 		}
 	]

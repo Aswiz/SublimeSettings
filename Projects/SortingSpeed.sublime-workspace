@@ -4,68 +4,36 @@
 		"selected_items":
 		[
 			[
-				"nu",
-				"numbers\t(ami.h)"
+				"s",
+				"size"
 			],
 			[
-				"type",
-				"typeSorting\t(sortingSpeed_v3.cpp)"
+				"data",
+				"dataInsertionSort"
 			],
 			[
-				"fin",
-				"finishA"
+				"con",
+				"console"
 			],
 			[
-				"F",
-				"FirstNumberLargerPoint"
+				"fun",
+				"function"
 			],
 			[
-				"fi",
-				"FirstNumberLessPoint"
+				"da",
+				"data"
 			],
 			[
-				"wi",
-				"while"
+				"sty",
+				"style.css"
 			],
 			[
-				"lar",
-				"largeNumber2"
-			],
-			[
-				"sta",
-				"start"
-			],
-			[
-				"co",
-				"coutArray"
-			],
-			[
-				"fini",
-				"finishPoint"
-			],
-			[
-				"start",
-				"startPoint"
-			],
-			[
-				"Qu",
-				"QuickSortSwap"
+				"sc",
+				"script.js"
 			],
 			[
 				"size",
-				"size_array"
-			],
-			[
-				"re",
-				"return"
-			],
-			[
-				"po",
-				"point"
-			],
-			[
-				"siz",
-				"size_array"
+				"size_Array"
 			],
 			[
 				"sor",
@@ -108,60 +76,66 @@
 	"buffers":
 	[
 		{
-			"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/sortingSpeed_v3.cpp",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/speedsInsertionSort.json",
 			"settings":
 			{
-				"buffer_size": 2786,
+				"buffer_size": 18657,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/sortingSpeed_3_v3.cpp",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/QuickSort.json",
 			"settings":
 			{
-				"buffer_size": 776,
+				"buffer_size": 4577,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/QuikeSort.cpp",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag.json",
 			"settings":
 			{
-				"buffer_size": 826,
+				"buffer_size": 2764,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/sortingSpeed_v3.sh",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/SelectionSort.json",
 			"settings":
 			{
-				"buffer_size": 752,
-				"encoding": "UTF-8",
+				"buffer_size": 3180,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/sortingSpeed_v2.sh",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag2.json",
 			"settings":
 			{
-				"buffer_size": 473,
+				"buffer_size": 515,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/aswis/Documents/C_Plus_Plus/src/ami/ami.h",
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSort.json",
 			"settings":
 			{
-				"buffer_size": 16718,
-				"encoding": "UTF-8",
+				"buffer_size": 3192,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag3.json",
+			"settings":
+			{
+				"buffer_size": 364,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -277,28 +251,42 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aswis",
-		"/home/aswis/Documents/C_Plus_Plus/src",
-		"/home/aswis/Documents/C_Plus_Plus/src/Algor",
-		"/home/aswis/Documents/C_Plus_Plus/src/ami"
+		"/home/aswis/Documents/Web/SortingSpeed",
+		"/home/aswis/Documents/Web/SortingSpeed/app",
+		"/home/aswis/Documents/Web/SortingSpeed/app/data"
 	],
 	"file_history":
 	[
-		"/home/aswis/sortingSpeed_v2.sh",
-		"/home/aswis/compileForTesting.sh",
-		"/home/aswis/compile.sh",
-		"/home/aswis/Documents/C_Plus_Plus/src/Algor/algorZlotyj.cpp",
-		"/home/aswis/Documents/C_Plus_Plus/src/Algor/example.json",
-		"/home/aswis/Documents/C_Plus_Plus/src/ami/ami.h",
-		"/home/aswis/Documents/C_Plus_Plus/src/HanoiPDF/hanoiTest.sh",
+		"/home/aswis/Documents/Web/SortingSpeed/app/data/speeds3.json",
+		"/home/aswis/Documents/Web/SortingSpeed/app/data/speeds2.json",
+		"/home/aswis/Documents/Web/SortingSpeed/app/data/speeds2_012.json",
+		"/home/aswis/Documents/SublimeProjekt/SublimeSettings/Projects/SortingSpeed.sublime-project",
+		"/home/aswis/Documents/Web/SpeedSorting/app/data/speeds2.json",
+		"/home/aswis/Documents/Web/SpeedSorting/app/sass/main.sass",
+		"/home/aswis/Documents/Web/SpeedSorting/app/data/data.csv",
+		"/home/aswis/Documents/Web/SpeedSorting/app/index.html",
+		"/home/aswis/Documents/Web/SpeedSorting/app/js/common.js",
+		"/home/aswis/Documents/Web/SpeedSorting/app/index_1.html",
+		"/home/aswis/Documents/Web/SpeedSorting/app/index_2.html",
+		"/home/aswis/Documents/Web/SpeedSorting/app/index2.html",
+		"/home/aswis/Documents/Web/SpeedSorting/app/data/speeds.json",
+		"/home/aswis/Documents/Web/SpeedSorting/app2/index.html",
+		"/home/aswis/Documents/Web/SpeedSorting/app/js/speeds.json",
+		"/home/aswis/Documents/Web/SpeedSorting/gulpfile.js",
+		"/home/aswis/Documents/Web/SpeedSorting/app2/script.js",
+		"/home/aswis/Documents/Web/SpeedSorting/app2/speeds.json",
+		"/home/aswis/Documents/Web/SpeedSorting/app2/style.css",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/QuikeSort.cpp",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/bubbleSort.cpp",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/InsertionSort.cpp",
+		"/home/aswis/Documents/C_Plus_Plus/src/ami/ami.h",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/clockExample.cpp",
+		"/home/aswis/compileForTesting.sh",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/hanoiTower_v4_forTesting.cpp",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/sortingSpeed.cpp",
 		"/home/aswis/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
 		"/home/aswis/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/home/aswis/compile.sh",
 		"/home/aswis/Documents/SublimeProjekt/SublimeSettings/Projects/C++.sublime-project",
 		"/home/aswis/Documents/C_Plus_Plus/src/ConcoleGame/consoleGame_v0.cpp",
 		"/home/aswis/Documents/C_Plus_Plus/src/Algor/clock.cpp",
@@ -325,7 +313,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 142.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -335,24 +323,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"BubbleSort",
-			"randD",
-			"randDi",
-			"randDigits",
-			"typeSorting",
-			"randDigits",
-			"\tcout << \"lessIndex = \" << lessIndex << endl;\n\tcout << \"largeIndex = \" << largeIndex << endl;\n",
-			"FirstNumberLargerPoint",
-			"FirstNumberLessPoint",
-			";\n",
-			"FirstNumberLessPoint",
-			"FirstNumberLargerPoint",
-			"bubbleSort",
-			"size_Array",
-			"bubbleSort",
-			"argc",
-			"randDigits",
-			"insertionSort"
+			"csv"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -375,282 +346,35 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/sortingSpeed_v3.cpp",
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/speedsInsertionSort.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2786,
+						"buffer_size": 18657,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								342,
-								342
+								18657,
+								18657
 							]
 						],
 						"settings":
 						{
-							"SL.1265.region_keys":
-							[
-							],
-							"SL.1280.region_keys":
-							[
-							],
-							"SL.654.region_keys":
-							[
-							],
-							"SL.737.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": 1328,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										2784,
-										2785
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										187,
-										188
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 414.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/sortingSpeed_3_v3.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 776,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								485,
-								485
-							]
-						],
-						"settings":
-						{
-							"SL.130.region_keys":
-							[
-							],
-							"SL.14.region_keys":
-							[
-							],
-							"SL.15.region_keys":
-							[
-							],
-							"SL.170.region_keys":
-							[
-							],
-							"SL.179.region_keys":
-							[
-							],
-							"SL.18.region_keys":
-							[
-							],
-							"SL.219.region_keys":
-							[
-							],
-							"SL.25.region_keys":
-							[
-							],
-							"SL.882.region_keys":
-							[
-							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										487,
-										488
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										449,
-										450
-									]
 								},
 								"unmatched":
 								{
@@ -718,27 +442,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										487,
-										488
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										449,
-										450
-									]
 								},
 								"unmatched":
 								{
@@ -803,12 +512,187 @@
 								"bh_curly_content"
 							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/QuickSort.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4517,
+								4517
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 341.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
@@ -816,59 +700,35 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/home/aswis/Documents/C_Plus_Plus/src/Algor/QuikeSort.cpp",
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 826,
+						"buffer_size": 2764,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								156,
-								156
+								14,
+								14
 							]
 						],
 						"settings":
 						{
-							"SL.1192.region_keys":
-							[
-							],
-							"SL.1207.region_keys":
-							[
-							],
-							"SL.1298.region_keys":
-							[
-							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										122,
-										123
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										93,
-										94
-									]
 								},
 								"unmatched":
 								{
@@ -936,27 +796,195 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										766,
-										767
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										124,
-										125
-									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2025.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/SelectionSort.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3180,
+								3180
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
 								},
 								"unmatched":
 								{
@@ -1021,242 +1049,30 @@
 								"bh_curly_content"
 							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 117.0,
+						"translation.y": 2001.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "/home/aswis/sortingSpeed_v3.sh",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								350,
-								350
-							]
-						],
-						"settings":
-						{
-							"SL.18.region_keys":
-							[
-							],
-							"SL.728.region_keys":
-							[
-							],
-							"SL.777.region_keys":
-							[
-							],
-							"SL.884.region_keys":
-							[
-							],
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										742,
-										746
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/dot.png",
-										"region.yellowish brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										601,
-										604
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"git_gutter_is_enabled": false,
-							"open_with_edit": true,
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/home/aswis/sortingSpeed_v2.sh",
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag2.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 473,
+						"buffer_size": 515,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								384,
-								302
+								506,
+								506
 							]
 						],
 						"settings":
@@ -1340,27 +1156,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										468,
-										472
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/dot.png",
-										"region.yellowish brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										245,
-										248
-									]
 								},
 								"unmatched":
 								{
@@ -1424,8 +1225,8 @@
 								"bh_curly_close",
 								"bh_curly_content"
 							],
-							"git_gutter_is_enabled": false,
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1433,68 +1234,44 @@
 					},
 					"stack_index": 2,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
 				{
 					"buffer": 5,
-					"file": "/home/aswis/Documents/C_Plus_Plus/src/ami/ami.h",
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSort.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16718,
+						"buffer_size": 3192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16200,
-								16200
+								3192,
+								3192
 							]
 						],
 						"settings":
 						{
-							"SL.107.region_keys":
-							[
-							],
-							"SL.1195.region_keys":
-							[
-							],
-							"SL.132.region_keys":
-							[
-							],
-							"SL.21.region_keys":
-							[
-							],
-							"SL.436.region_keys":
-							[
-							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
-									"1":
-									[
-										11120,
-										11121
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"region.yellowish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										11115,
-										11116
-									]
 								},
 								"unmatched":
 								{
@@ -1562,27 +1339,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										16716,
-										16717
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										16154,
-										16155
-									]
 								},
 								"unmatched":
 								{
@@ -1647,11 +1409,187 @@
 								"bh_curly_content"
 							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 16975.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/aswis/Documents/Web/SortingSpeed/app/data/BubbleSortFlag3.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								45
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1666,7 +1604,7 @@
 	},
 	"input":
 	{
-		"height": 94.0
+		"height": 54.0
 	},
 	"layout":
 	{
@@ -1683,12 +1621,19 @@
 				0,
 				2,
 				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5078125,
+			0.33,
+			0.66,
 			1.0
 		],
 		"rows":
@@ -1719,10 +1664,10 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "C++.sublime-project",
+	"project": "SortingSpeed.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1742,7 +1687,7 @@
 		[
 			[
 				"",
-				"~/Documents/SublimeProjekt/SublimeSettings/Projects/SortingSpeed.sublime-project"
+				"~/Documents/SublimeProjekt/SublimeSettings/Projects/C++.sublime-project"
 			]
 		],
 		"width": 381.0
@@ -1756,14 +1701,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 278.0,
 	"status_bar_visible": true,
 	"template_settings":
